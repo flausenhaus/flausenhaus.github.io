@@ -1,0 +1,11 @@
+# flausenhaus.github.io
+
+1611 Book Club (and associated content)
+
+# License
+
+The about.md, lambda/, and _posts/ directory are Copyright © 2014 1611 Book
+Club and Friends.
+
+The layout of the site is based entirely on Tom Preston-Warner's [homepage]
+(https://github.com/mojombo/mojombo.github.com).
