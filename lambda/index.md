@@ -30,3 +30,8 @@ so bring a laptop.  Check the webpage for updates at the beginning of IAP!
 - *Prerequites*: Some programming experience.
 - *Requirements*: Laptop and network access.
 - *Contact*: Bhaskar Mookerji, sipb-iap-clojure at mit dot edu
+
+<br>
+# Post-Mortem
+Thanks for attending! Aysylu's put the slides on
+[slideshare](http://www.slideshare.net/aysylu/clojure-class).
