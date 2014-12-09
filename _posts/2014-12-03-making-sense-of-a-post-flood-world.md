@@ -2,6 +2,7 @@
 layout: post
 title: Making Sense of a Post-Flood World
 type: 'event'
+event_date: 2014-12-03 21:22:22
 ---
 Making Sense of a Post-Flood World
 ===================================
